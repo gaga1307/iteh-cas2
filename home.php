@@ -39,7 +39,7 @@
                                 <th>Katedra</th>
                                 <th>Sala</th>
                                 <th>Datum</th>
-                                <th>Selektuj</th>
+                                <th>Datum kolokvijuma</th>
                             </tr>
                         </thead>
                         <tbody>
